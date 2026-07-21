@@ -1,0 +1,34 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+
+# Personal docs (kept off public repo)
+*Resume*.tex
+*Resume*.pdf
+*Cover Letter*.tex
+*Cover Letter*.pdf
+DOER_*.tex
+DOER_*.pdf
+
+# Editor / OS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
